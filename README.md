@@ -1,0 +1,2 @@
+# Firecrack
+pkg install python2 pkg install git git clone https://github.com/Ranginang67/Firecrack cd Firecrack pip2 install -r requirements.txt python2 firecrack.py help Linux:  apt-get install python apt-get install python-pip apt-get install git git clone https://github.com/Ranginang67/Firecrack cd Firecrack pip install -r requirements.txt python firecrack.py help NOTE:  1.before use facebook random attack, edit file "nano module/wordlist.txt" and add your wordlist minim of 5 line 2.before use firecrack deface, put your deface script one folder with firecrack.py
